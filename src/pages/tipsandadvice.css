@@ -1,0 +1,34 @@
+.tp1 {
+    padding: 20px;
+  }
+  
+  .tips-list {
+    margin: 10px 0;
+  }
+  
+  .content img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  @media (max-width: 768px) {
+    .row {
+      display: flex;
+      flex-direction: column;
+    }
+    
+    .col-md-4, .col-md-8 {
+      width: 100%;
+      padding: 10px;
+    }
+  
+    .text-center {
+      text-align: center;
+    }
+    
+    .tips-list, .content {
+      margin: 0 auto;
+      max-width: 90%;
+    }
+  }
+  
