@@ -18,7 +18,7 @@ function TipsAndAdvice() {
           </div>
           <div className="col-md-8">
             <div className="content rounded shadow p-3">
-              <img src="public/5.jpg" alt="no image" className='img-fluid' />
+              <img src="/5.jpg" alt="no image" className='img-fluid' />
               <h5 className='mt-5'>This page tells you how to:</h5>
               <ul>
                 <li>Prepare your Curriculum Vitae (CV)</li>

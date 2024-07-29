@@ -15,7 +15,7 @@ function Going() {
           </div>
           <div className="col-12 col-md-4 mb-4 mb-md-0">
             <Card style={{ width: '100%', height: '100%' }} className='shadow crd1'>
-              <Card.Img variant="top" src="public/4.jpg" />
+              <Card.Img variant="top" src="/4.jpg" />
               <Card.Body>
                 <Card.Title className='mt-2'>PublicJobs.com</Card.Title>
                 <Button variant="primary" className='rounded mt-3'>
@@ -26,7 +26,7 @@ function Going() {
           </div>
           <div className="col-12 col-md-4">
             <Card style={{ width: '100%', height: '100%' }} className='shadow crd1'>
-              <Card.Img variant="top" src="public/3.jpg" />
+              <Card.Img variant="top" src="/3.jpg" />
               <Card.Body>
                 <Card.Title>Construction Recruitment <br />and Training</Card.Title>
                 <Button variant="primary" className='rounded mt-3'>

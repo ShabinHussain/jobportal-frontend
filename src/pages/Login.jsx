@@ -18,7 +18,7 @@ function Login() {
                   <h2>Employer</h2>
                 </div>
                 <div className='row text-center'>
-                  <img src='public/employer.png' alt='Employer' className='rounded' />
+                  <img src='/employer.png' alt='Employer' className='rounded' />
                 </div>
                 <div className='row text-center '>
                   <button type='button' className='rounded p-2 mt-3 bg-success'>
@@ -47,7 +47,7 @@ function Login() {
                   <h2>Jobseeker</h2>
                 </div>
                 <div className='row text-center'>
-                  <img src='public/jobseekerregister.png' alt='Jobseeker' className='rounded' />
+                  <img src='/jobseekerregister.png' alt='Jobseeker' className='rounded' />
                 </div>
                 <div className='row text-center'>
                   <button type='button' className='rounded p-2 mt-3 bg-success'>
