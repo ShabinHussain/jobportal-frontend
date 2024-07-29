@@ -126,7 +126,7 @@ function Home() {
 .hero-section {
   width: 100%;
   height: 700px; 
-  background-image: url('./src/assets/img2.jpg'); 
+  background-image: url('/img2.jpg'); 
   background-size: cover; 
   background-position: center; 
   background-repeat: no-repeat; 
